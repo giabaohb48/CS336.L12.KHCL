@@ -1,6 +1,6 @@
 # CS336.L12.KHCL
 - Đồ án môn học: Truy vấn thông tin đa phương tiện
-# Image Search Base On Caption
+# Image Search Engine Based On Caption
 - Tên đề tài: Xây dựng hệ thống tìm kiếm ảnh sử dụng mô tả ( Image Search Base On Caption )
   + Input: Một câu mô tả ảnh
   + Output: Các hình ảnh liên quan với câu mô tả
